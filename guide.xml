@@ -1,0 +1,731 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="LA 1">
+    <display-name lang="es">LA 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="LA 2">
+    <display-name lang="es">LA 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Antena 3">
+    <display-name lang="es">Antena 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Cuatro">
+    <display-name lang="es">Cuatro</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Telecinco">
+    <display-name lang="es">Telecinco</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="La Sexta">
+    <display-name lang="es">La Sexta</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="#0">
+    <display-name lang="es">#0</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="#Vamos">
+    <display-name lang="es">#Vamos</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="7 TV Región Murcia">
+    <display-name lang="es">7 TV Región Murcia</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="À Punt">
+    <display-name lang="es">À Punt</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Aragón TV">
+    <display-name lang="es">Aragón TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV Canaria">
+    <display-name lang="es">TV Canaria</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Sur">
+    <display-name lang="es">Canal Sur</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Castilla la Mancha TV">
+    <display-name lang="es">Castilla la Mancha TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Sur HD">
+    <display-name lang="es">Canal Sur HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="La 7">
+    <display-name lang="es">La 7</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ETB 1">
+    <display-name lang="es">ETB 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Extremadura">
+    <display-name lang="es">Canal Extremadura</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="IB3 RTV Illes Balears">
+    <display-name lang="es">IB3 RTV Illes Balears</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Telemadrid">
+    <display-name lang="es">Telemadrid</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TPA">
+    <display-name lang="es">TPA</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="es">TV3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TVG -TV Galicia">
+    <display-name lang="es">TVG -TV Galicia</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="8 tv">
+    <display-name lang="es">8 tv</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Andalucía TV">
+    <display-name lang="es">Andalucía TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ETB 2">
+    <display-name lang="es">ETB 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="La Ocho TV">
+    <display-name lang="es">La Ocho TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="La Otra">
+    <display-name lang="es">La Otra</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Series">
+    <display-name lang="es">Movistar Series</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Seriesmanía">
+    <display-name lang="es">M. Seriesmanía</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Fox">
+    <display-name lang="es">Fox</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="es">AXN</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TNT">
+    <display-name lang="es">TNT</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Comedy Central">
+    <display-name lang="es">Comedy Central</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Calle 13">
+    <display-name lang="es">Calle 13</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="COSMO">
+    <display-name lang="es">COSMO</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="es">AMC</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Fox Life">
+    <display-name lang="es">Fox Life</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="AXN White">
+    <display-name lang="es">AXN White</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="es">SYFY</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Fest">
+    <display-name lang="es">M. Fest</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="es">MTV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Factoría de Ficción">
+    <display-name lang="es">Factoría de Ficción</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Neox">
+    <display-name lang="es">Neox</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Atreseries">
+    <display-name lang="es">Atreseries</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Energy">
+    <display-name lang="es">Energy</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Estrenos">
+    <display-name lang="es">Movistar Estrenos</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M.CineDoc&amp;Roll">
+    <display-name lang="es">M.CineDoc&amp;Roll</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Disney+">
+    <display-name lang="es">Disney+</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Acción">
+    <display-name lang="es">Movistar Acción</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Comedia">
+    <display-name lang="es">Movistar Comedia</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Drama">
+    <display-name lang="es">M. Drama</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Cine Español">
+    <display-name lang="es">Movistar Cine Español</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TCM">
+    <display-name lang="es">TCM</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Hollywood">
+    <display-name lang="es">Hollywood</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Sundance">
+    <display-name lang="es">Sundance</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="DARK">
+    <display-name lang="es">DARK</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="13 TV">
+    <display-name lang="es">13 TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Ten">
+    <display-name lang="es">Ten</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Paramount Channel">
+    <display-name lang="es">Paramount Channel</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga">
+    <display-name lang="es">M. LaLiga</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 1">
+    <display-name lang="es">M. LaLiga 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 2">
+    <display-name lang="es">M. LaLiga 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 3">
+    <display-name lang="es">M. LaLiga 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones">
+    <display-name lang="es">M. Liga de Campeones</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 1">
+    <display-name lang="es">M. Liga de Campeones 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 2">
+    <display-name lang="es">M. Liga de Campeones 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Deportes">
+    <display-name lang="es">Movistar Deportes</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 1">
+    <display-name lang="es">M. Deportes 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 2">
+    <display-name lang="es">M. Deportes 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 3">
+    <display-name lang="es">M. Deportes 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Fórmula 1">
+    <display-name lang="es">Movistar Fórmula 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Ubeat">
+    <display-name lang="es">Ubeat</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Movistar Golf">
+    <display-name lang="es">Movistar Golf</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Eurosport 1">
+    <display-name lang="es">Eurosport 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Eurosport 2">
+    <display-name lang="es">Eurosport 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="GOL">
+    <display-name lang="es">GOL</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Teledeporte">
+    <display-name lang="es">Teledeporte</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Caza y Pesca">
+    <display-name lang="es">Caza y Pesca</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Iberalia TV">
+    <display-name lang="es">Iberalia TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Toros">
+    <display-name lang="es">Toros</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Real Madrid TV">
+    <display-name lang="es">Real Madrid TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Barça TV">
+    <display-name lang="es">Barça TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="National Geographic">
+    <display-name lang="es">National Geographic</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Nat Geo Wild">
+    <display-name lang="es">Nat Geo Wild</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Historia">
+    <display-name lang="es">Historia</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Discovery">
+    <display-name lang="es">Discovery</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Odisea">
+    <display-name lang="es">Odisea</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Blaze">
+    <display-name lang="es">Blaze</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Viajar">
+    <display-name lang="es">Viajar</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Discovery Max">
+    <display-name lang="es">Discovery Max</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Crimen + Investigación">
+    <display-name lang="es">Crimen + Investigación</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="CGTN Español">
+    <display-name lang="es">CGTN Español</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Cocina">
+    <display-name lang="es">Canal Cocina</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Decasa">
+    <display-name lang="es">Canal Decasa</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="DKISS">
+    <display-name lang="es">DKISS</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Divinity">
+    <display-name lang="es">Divinity</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Nova">
+    <display-name lang="es">Nova</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Mega">
+    <display-name lang="es">Mega</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="BE MAD">
+    <display-name lang="es">BE MAD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="El Garage TV">
+    <display-name lang="es">El Garage TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Orbe 21">
+    <display-name lang="es">Canal Orbe 21</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Fútbol Replay">
+    <display-name lang="es">Canal Fútbol Replay</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Baby TV">
+    <display-name lang="es">Baby TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Disney Junior">
+    <display-name lang="es">Disney Junior</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Panda">
+    <display-name lang="es">Canal Panda</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="NICK JR">
+    <display-name lang="es">NICK JR</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Nickelodeon">
+    <display-name lang="es">Nickelodeon</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Disney Channel">
+    <display-name lang="es">Disney Channel</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Boing">
+    <display-name lang="es">Boing</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Clan TVE">
+    <display-name lang="es">Clan TVE</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ETB 3">
+    <display-name lang="es">ETB 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="VH1">
+    <display-name lang="es">VH1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Mezzo">
+    <display-name lang="es">Mezzo</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Mezzo Live HD">
+    <display-name lang="es">Mezzo Live HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Classica">
+    <display-name lang="es">Classica</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Classica HD">
+    <display-name lang="es">Classica HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Playboy TV">
+    <display-name lang="es">Playboy TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="24 Horas">
+    <display-name lang="es">24 Horas</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="BBC World">
+    <display-name lang="es">BBC World</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="CNN Int">
+    <display-name lang="es">CNN Int</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Fox News">
+    <display-name lang="es">Fox News</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Euronews">
+    <display-name lang="es">Euronews</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Al Jazeera English">
+    <display-name lang="es">Al Jazeera English</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="FRANCE 24">
+    <display-name lang="es">FRANCE 24</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="es">CNBC</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV5MONDE">
+    <display-name lang="es">TV5MONDE</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Bloomberg">
+    <display-name lang="es">Bloomberg</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Sky News">
+    <display-name lang="es">Sky News</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="El Toro TV">
+    <display-name lang="es">El Toro TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="RT France HD">
+    <display-name lang="es">RT France HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="CNC World">
+    <display-name lang="es">CNC World</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Telefe Internacional">
+    <display-name lang="es">Telefe Internacional</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal de las Estrellas">
+    <display-name lang="es">Canal de las Estrellas</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="es">TV RECORD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV Chile">
+    <display-name lang="es">TV Chile</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV Colombia">
+    <display-name lang="es">TV Colombia</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Cubavisión">
+    <display-name lang="es">Cubavisión</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Telesur">
+    <display-name lang="es">Telesur</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="NHK World TV">
+    <display-name lang="es">NHK World TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="EWTN">
+    <display-name lang="es">EWTN</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ARIRANG TV">
+    <display-name lang="es">ARIRANG TV</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Sur Andalucía">
+    <display-name lang="es">Canal Sur Andalucía</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TVG Europa">
+    <display-name lang="es">TVG Europa</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal Extremadura Sat">
+    <display-name lang="es">Canal Extremadura Sat</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TV3 Cat">
+    <display-name lang="es">TV3 Cat</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="ETB Sat">
+    <display-name lang="es">ETB Sat</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Aragón TV Int">
+    <display-name lang="es">Aragón TV Int</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Canal 33">
+    <display-name lang="es">Canal 33</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Esport 3">
+    <display-name lang="es">Esport 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="3 24">
+    <display-name lang="es">3 24</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Betevé">
+    <display-name lang="es">Betevé</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 1">
+    <display-name lang="es">Alquiler 1</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 2">
+    <display-name lang="es">Alquiler 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 3">
+    <display-name lang="es">Alquiler 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 4">
+    <display-name lang="es">Alquiler 4</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 5">
+    <display-name lang="es">Alquiler 5</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 6">
+    <display-name lang="es">Alquiler 6</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler HD">
+    <display-name lang="es">Alquiler HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="Alquiler 2 HD">
+    <display-name lang="es">Alquiler 2 HD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 4">
+    <display-name lang="es">M. LaLiga 4</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 5">
+    <display-name lang="es">M. LaLiga 5</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 3">
+    <display-name lang="es">M. Liga de Campeones 3</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 4">
+    <display-name lang="es">M. Liga de Campeones 4</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 5">
+    <display-name lang="es">M. Liga de Campeones 5</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 6">
+    <display-name lang="es">M. Liga de Campeones 6</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 7">
+    <display-name lang="es">M. Liga de Campeones 7</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones 8">
+    <display-name lang="es">M. Liga de Campeones 8</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 4">
+    <display-name lang="es">M. Deportes 4</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 5">
+    <display-name lang="es">M. Deportes 5</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Deportes 6">
+    <display-name lang="es">M. Deportes 6</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. DEPORTES7">
+    <display-name lang="es">M. DEPORTES7</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga UHD">
+    <display-name lang="es">M. LaLiga UHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Liga de Campeones UHD">
+    <display-name lang="es">M. Liga de Campeones UHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. Fórmula 1 UHD">
+    <display-name lang="es">M. Fórmula 1 UHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 1 UHD">
+    <display-name lang="es">M. LaLiga 1 UHD</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 10">
+    <display-name lang="es">M. LaLiga 10</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 6">
+    <display-name lang="es">M. LaLiga 6</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="TVG 2">
+    <display-name lang="es">TVG 2</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 8">
+    <display-name lang="es">M. LaLiga 8</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 9">
+    <display-name lang="es">M. LaLiga 9</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+  <channel id="M. LaLiga 7">
+    <display-name lang="es">M. LaLiga 7</display-name>
+    <url>http://www.movistarplus.es</url>
+  </channel>
+</tv>
